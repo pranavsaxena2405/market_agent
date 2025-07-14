@@ -23,12 +23,15 @@ A free Groq API key (sign up at groq.com)
 
 **Clone the Repository**:
 git clone https://github.com/yourusername/Marketing-AI-Agent.git
+
 cd Marketing-AI-Agent
 
 
 **Install Dependencies**:Create a virtual environment and install required packages:
 python -m venv venv
+
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+
 pip install -r requirements.txt
 
 
