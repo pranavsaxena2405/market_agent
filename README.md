@@ -1,4 +1,5 @@
-Marketing AI Agent
+**Marketing AI Agent**
+
 **Overview**
 Welcome to the Marketing AI Agent! This project is an intelligent assistant that answers complex marketing queries (e.g., "Best ad copy for summer sale campaigns") using a Retrieval-Augmented Generation (RAG) pipeline. It leverages 20 marketing blog files, FAISS for vector search, and Groq's llama3-70b-8192 LLM, deployed on PythonAnywhere. Perfect for marketers or developers looking to experiment with AI-driven content retrieval!
 Features
